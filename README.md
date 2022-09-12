@@ -9,6 +9,8 @@ Open http://127.0.0.1:5173 to view it in the browser.
 
 
 Technologies:
-Redux
-React router dom
-ant design
+- Redux
+- React router dom
+- ant design
+- vite
+- axios
